@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "55bVDPjNiE/WHpOK5xJnK/mJEGtXAB+iY5Zoy4JDyhAJSTlYarMeHH9h0hWq6O5X8OqTHN1a2q6J53R18FIDow==",
+  "success": true,
+  "projectFilePath": "/Users/jose/Documents/DotNet/EasyPOS/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/jose/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/jose/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/jose/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
